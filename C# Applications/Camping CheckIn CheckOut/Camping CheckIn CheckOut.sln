@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camping CheckIn CheckOut", "Camping CheckIn CheckOut\Camping CheckIn CheckOut.csproj", "{967F36AC-6DB8-4000-81F7-BB358A717A12}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Camping CheckInOut Application", "Camping CheckInOut Application\Camping CheckInOut Application.vdproj", "{1D222494-470E-4E57-9C32-324B8775832E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{967F36AC-6DB8-4000-81F7-BB358A717A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967F36AC-6DB8-4000-81F7-BB358A717A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967F36AC-6DB8-4000-81F7-BB358A717A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967F36AC-6DB8-4000-81F7-BB358A717A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D222494-470E-4E57-9C32-324B8775832E}.Debug|Any CPU.ActiveCfg = Debug
+		{1D222494-470E-4E57-9C32-324B8775832E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E48D7D-C805-4524-AC80-70E84B0B5B8B}
+	EndGlobalSection
+EndGlobal

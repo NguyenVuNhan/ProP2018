@@ -1,0 +1,52 @@
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Resources\icon_drink.png
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Resources\icon_souv.png
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Resources\icon_food.png
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Resources\add1.PNG
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Resources\add5.PNG
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Resources\remove 1.PNG
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Resources\clear.PNG
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Event Store.exe.config
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Event Store.exe
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Event Store.pdb
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Database_DLL.dll
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\MySql.Data.dll
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Phidget22.NET.dll
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Google.Protobuf.dll
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Database_DLL.pdb
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\MySql.Data.xml
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Phidget22.NET.pdb
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\bin\Release\Phidget22.NET.xml
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\obj\Release\Event_Store.Form1.resources
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\obj\Release\Event_Store.LoginWindow.resources
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\obj\Release\Event_Store.Properties.Resources.resources
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\obj\Release\Event Store.csproj.GenerateResource.cache
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\obj\Release\Event Store.csproj.CoreCompileInputs.cache
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\obj\Release\Event Store.csproj.CopyComplete
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\obj\Release\Event Store.exe
+C:\Users\MOD\Desktop\ProP8\Application design\Event Store\Event Store\obj\Release\Event Store.pdb
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Resources\icon_drink.png
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Resources\icon_souv.png
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Resources\icon_food.png
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Resources\add1.PNG
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Resources\add5.PNG
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Resources\remove 1.PNG
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Resources\clear.PNG
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Event Store.exe.config
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Event Store.exe
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Event Store.pdb
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Database_DLL.dll
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\MySql.Data.dll
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Phidget22.NET.dll
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Google.Protobuf.dll
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Database_DLL.pdb
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\MySql.Data.xml
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Phidget22.NET.pdb
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\bin\Release\Phidget22.NET.xml
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\obj\Release\Event_Store.Form1.resources
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\obj\Release\Event_Store.LoginWindow.resources
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\obj\Release\Event_Store.Properties.Resources.resources
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\obj\Release\Event Store.csproj.GenerateResource.cache
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\obj\Release\Event Store.csproj.CoreCompileInputs.cache
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\obj\Release\Event Store.csproj.CopyComplete
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\obj\Release\Event Store.exe
+C:\Users\MOD\Pictures\ProP8\C# Applications\Event Store\Event Store\obj\Release\Event Store.pdb

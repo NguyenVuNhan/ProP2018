@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event Store", "Event Store\Event Store.csproj", "{8F233D8A-A2B9-4984-8CA2-B3209367F34F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Event Store Application", "Event Store Application\Event Store Application.vdproj", "{DC6BEAED-3744-4EF7-B761-8F86B90DBD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F233D8A-A2B9-4984-8CA2-B3209367F34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F233D8A-A2B9-4984-8CA2-B3209367F34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F233D8A-A2B9-4984-8CA2-B3209367F34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F233D8A-A2B9-4984-8CA2-B3209367F34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6BEAED-3744-4EF7-B761-8F86B90DBD1E}.Debug|Any CPU.ActiveCfg = Debug
+		{DC6BEAED-3744-4EF7-B761-8F86B90DBD1E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA331ED-EA36-4E82-BB22-0888D3FBEB38}
+	EndGlobalSection
+EndGlobal

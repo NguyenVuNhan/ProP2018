@@ -1,0 +1,14 @@
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\bin\Release\ATM_Apps.exe.config
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\bin\Release\ATM_Apps.exe
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\bin\Release\ATM_Apps.pdb
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\bin\Release\MySql.Data.dll
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\bin\Release\Google.Protobuf.dll
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\bin\Release\MySql.Data.xml
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\obj\Release\ATM_Apps.Form1.resources
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\obj\Release\ATM_Apps.Properties.Resources.resources
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\obj\Release\ATM_Apps.TransactionInfo.resources
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\obj\Release\ATM_Apps.csproj.GenerateResource.cache
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\obj\Release\ATM_Apps.csproj.CoreCompileInputs.cache
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\obj\Release\ATM_Apps.csproj.CopyComplete
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\obj\Release\ATM_Apps.exe
+C:\Users\MOD\Desktop\ProP8\Application\ATM_Apps\ATM_Apps\obj\Release\ATM_Apps.pdb
